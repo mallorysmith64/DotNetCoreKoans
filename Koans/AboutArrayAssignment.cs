@@ -1,8 +1,6 @@
 using Xunit;
 using DotNetCoreKoans.Engine;
 
-//todo: do this koan first
-
 namespace DotNetCoreKoans.Koans
 {
     public class AboutArrayAssignment : Koan
